@@ -20,7 +20,7 @@ msg.add_alternative("""\
     <!DOCTYPE HTML>
     <html>
         <body>
-            <h1 style='color:SlateGrey;'> Here are the two images you requested. </h1>
+            <h1 style='color:SlateGrey;'> Here are the two images requested by the writer of this code. </h1>
             <p> The two kittens in the images were obtained from random websites online. </p>
         </body>
     </html>
